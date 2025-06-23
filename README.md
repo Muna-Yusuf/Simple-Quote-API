@@ -43,11 +43,12 @@ This is a simple REST API for managing quotes
         "text": "Your quote text here.",
         "author": "Author Name"
     }
+    ```
 
 
     - Response:
     ```json
-{
+    {
   "data": {
     "id": 1,
     "text": "Your quote text here.",
@@ -56,11 +57,12 @@ This is a simple REST API for managing quotes
     "updated_at": "2025-06-24T12:00:00Z"
   },
   "message": "Quote added successfully"
-}
+    }
+    ```
 
 ---
 
-## Testing with Bruno:
+## Testing with Bruno or Postman:
 
 1. Open Bruno application.
 
@@ -81,9 +83,11 @@ This is a simple REST API for managing quotes
 ## Running Tests:
 
 To test the API locally:
-```bash python manage.py test ```
+```bash
+python manage.py test
+```
 
 
 ---
 
-Made with ❤️ using Django and tested with Bruno.
+Made using Django and tested with Bruno.
