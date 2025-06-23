@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "Hard work beats talent when talent fails to work hard.",
+    "author": "Kevin Durant",
+    "created_at": "2025-06-23T22:15:29.730409",
+    "updated_at": "2025-06-23T22:15:29.730409"
+  },
+  {
+    "id": 2,
+    "text": "Hard work beats talent when talent fails to work hard.",
+    "author": "Kevin Durant",
+    "created_at": "2025-06-23T22:21:49.689901",
+    "updated_at": "2025-06-23T22:21:49.689901"
+  },
+  {
+    "id": 3,
+    "text": "Hard work beats talent when talent fails to work hard.",
+    "author": "Kevin Durant",
+    "created_at": "2025-06-23T22:24:49.226811",
+    "updated_at": "2025-06-23T22:24:49.226811"
+  },
+  {
+    "id": 4,
+    "text": "Success is mine",
+    "author": "Muna Jimale",
+    "created_at": "2025-06-23T22:31:26.904432",
+    "updated_at": "2025-06-23T22:31:26.904432"
+  },
+  {
+    "id": 5,
+    "text": "Hard work beats talent when talent fails to work hard.",
+    "author": "Kevin Durant",
+    "created_at": "2025-06-23T22:47:00.374583",
+    "updated_at": "2025-06-23T22:47:00.374583"
+  }
+]
