@@ -1,0 +1,41 @@
+{
+  "info": {
+    "name": "Create Quotes - test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "bruno",
+      "event": []
+    },
+    {
+      "name": "Create Quote",
+      "event": [],
+      "request": {
+        "method": "POST",
+        "header": [],
+        "auth": {
+          "type": "noauth"
+        },
+        "description": "",
+        "url": {
+          "raw": "http://127.0.0.1:8000/quotes/",
+          "protocol": "http",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1:8000"
+          ],
+          "path": [
+            "quotes",
+            ""
+          ],
+          "query": [],
+          "variable": []
+        }
+      }
+    }
+  ],
+  "variable": []
+}
